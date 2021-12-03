@@ -1,0 +1,12 @@
+{
+  "name": "icons",
+  "version": "0.1.0",
+  "description": "Personal icon collection",
+  "scripts": {},
+  "keywords": [
+    "icon",
+    "icons"
+  ],
+  "author": "nicobohne",
+  "license": "MIT"
+}
